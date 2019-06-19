@@ -30,7 +30,6 @@ nav {
     content: " ";
     display: block;
     clear: both;
-    /* overflow: auto; */
   }
   
 section {
@@ -38,22 +37,12 @@ section {
     width: 495px;
     float: left;
     padding: 20px;
-    /* border-style: solid;
-    border-width: 20px;
-    border-color: #ebebeb; */
 }
-
-/* section, aside {
-    box-sizing: border-box;
-} */
 
 #aside {
     background: #ebebeb;
     color: #777;
     float: right;
-    /* border-color: #ebebeb;
-    border-style: solid;
-    border-width: 50px; */
     text-align: center;
     width: 455px;
     height: 293px;
@@ -81,6 +70,6 @@ h1, p {
 
 #h123, #p1 {
     padding: 20px;
-    margin: 20px auto;
-    width: 80%;
+    margin: 15px auto;
+    width: 90%;
 }
